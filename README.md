@@ -47,13 +47,13 @@ Python, SQL (SQLite), Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 ## Charts
 
-![Churn rate by plan type](churn_by_plan.png)
+![Churn rate by plan type](images/churn_by_plan.png)
 
-![Churn rate by country](churn_by_country.png)
+![Churn rate by state](images/churn_by_country.png)
 
-![Monthly churn trend](monthly_churn_trend.png)
+![Monthly churn trend](images/monthly_churn_trend.png)
 
-![Correlation heatmap](correlation_heatmap.png)
+![Correlation heatmap](images/correlation_heatmap.png)
 
 ## Findings
 
@@ -81,6 +81,7 @@ Python, SQL (SQLite), Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 customer-churn-analysis/
 ├── churn_analysis.ipynb     # full analysis
 ├── customer_churn.db        # SQLite database
+├── images/                  # chart images used in this README
 └── README.md
 ```
 
