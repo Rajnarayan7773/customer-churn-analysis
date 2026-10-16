@@ -89,3 +89,8 @@ customer-churn-analysis/
 1. Install the libraries: `pip install numpy pandas matplotlib seaborn notebook`
 2. Keep `customer_churn.db` in the same folder as the notebook.
 3. Open `churn_analysis.ipynb` in Jupyter and choose *Kernel → Restart & Run All*.
+
+##👨‍💻 Author
+Rajnarayan Singh Rajput
+
+Aspiring Data Analyst | SQL Enthusiast | Data-Driven Problem Solver
