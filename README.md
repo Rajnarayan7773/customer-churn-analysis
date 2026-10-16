@@ -43,7 +43,6 @@ Python, SQL (SQLite), Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 **Churn rate by plan type:** Basic 60.00% | Standard 22.22% | Premium 14.29%
 
-## Charts
 
 ## Charts
 
